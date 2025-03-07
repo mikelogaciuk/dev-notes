@@ -1,1 +1,3 @@
 # dev-notes
+
+## Personal stuff
